@@ -21,7 +21,7 @@ Control Units</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(9).pdf" style="text-decoration:none;">Automobile Driver Fingerprinting</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(10).pdf" style="text-decoration:none;">Gateway Internals of Tesla Motors </a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(10).pdf" style="text-decoration:none;">Anti theft Security System for Vehicles </a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(11).pdf" style="text-decoration:none;">Intrusion Detection System Based on the Analysis of Time Intervals of CAN Messages for In-Vehicle Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(12).pdf" style="text-decoration:none;">Vehicle Security System</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(13).pdf" style="text-decoration:none;">A Survey of Remote
@@ -29,4 +29,26 @@ Automotive Attack Surfaces</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(14).pdf" style="text-decoration:none;">Remote Exploitation of an
 Unaltered Passenger Vehicle</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(15).pdf" style="text-decoration:none;">A Survey on Vehicle Security Systems: Approaches and Technologies</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(16).pdf" style="text-decoration:none;">Comprehensive Unified Framework
+for Vehicle's Security Systems</a></li>
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(17).pdf" style="text-decoration:none;">Anti-Theft Vehicle Security System</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(18).pdf" style="text-decoration:none;">Multi-layer vehicle security framework</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Vehicle-Security-Papers/blob/master/vh(19).pdf" style="text-decoration:none;">Automotive Security
+Best Practices</a></li> 
+
+
+
+
+
+
+
+
+
 </ul>
